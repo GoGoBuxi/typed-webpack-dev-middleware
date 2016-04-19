@@ -1,0 +1,5 @@
+{
+  "name": "webpack-dev-middleware",
+  "main": "index.d.ts",
+  "homepage": "https://github.com/webpack/webpack-dev-middleware"
+}
